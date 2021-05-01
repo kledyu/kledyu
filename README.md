@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @1017yu
+ Hi there 👋
+-  I am Kled Yu who major in electronics engineering
 - 👀 I’m interested in Data-science
 - 🌱 I’m currently learning electronic-engineering and programming
 - 💞️ I’m looking to collaborate on deep-learing

@@ -1,31 +1,39 @@
+<img src="https://img.shields.io/github/followers/kled?style=social" align="right" /> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkled" align="right" /></a>
 
- <img src="https://img.shields.io/github/followers/kled?style=social" align="right" /> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkled" align="right" /></a>
-
-
+<br/>
 
 ## Hi there 👋
 
 <a href="https://github.com/kled" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://instagram.com/184.58cm" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>
+</a>  
+  
 
+## Kled's Github   
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=kled&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-*****Studing Steadily!!*****
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kled&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+<br/>
+
+***Studing Steadily!!***
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white&color=<orange>"/></a>
 <img src="https://img.shields.io/badge/C++-lightgrey?style=flat-square&logo=Cplusplus&logoColor=blue"/></a>
  
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kled&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kled&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 -  I am Kled Yu who major in electronics engineering
 - 👀 I’m interested in Data-science

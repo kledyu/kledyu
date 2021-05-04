@@ -13,15 +13,9 @@
   
 
 ## Kled's Github   
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kled&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kled&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+![Kled's github stats](https://github-readme-stats.vercel.app/api?username=1017yu&show_icons=true)
+![Kled's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=1017yu&layout=compact&hide=Jupyter%20Notebook)
+---
 
 <br/>  
 

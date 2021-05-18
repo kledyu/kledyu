@@ -29,10 +29,10 @@
  
 
  
--  I am Kled Yu who major in electronics engineering
-- 👀 I’m interested in Data-science
+-  I am Kled who major in electronics engineering
+- 👀 I’m interested in front-end developer
 - 🌱 I’m currently learning electronic-engineering and programming
-- 💞️ I’m looking to collaborate on deep-learing
+- 💞️ I’m looking to collaborate on computer engineering
 - 📫 How to reach me 1017yu@daum.net
 
 <!---

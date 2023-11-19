@@ -2,40 +2,44 @@
 
 <br/>
 
-## Hi there!!  👋 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&animation=fadeIn&height=320&section=header&text=Hi%20there!%20%F0%9F%91%8B%20%&desc=I%27m%20Kled%20Yu%20&%20-%20%EC%9D%B5%EB%AA%85&fontSize=48&fontAlign=60&fontAlignY=36&descSize=32&descAlign=70&descAlignY=52)
 
-<a href="https://github.com/kled" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/184.58cm" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
+
+## 😀 안녕하세요. 프론트엔드 개발자 유희태입니다. :)
+
+🔥 강한 승부욕과 끝없는 자아성찰로 지속적인 발전을 고민합니다.
   
+💎 어제보다 더 나은 오늘, 내일이 되기 위해 노력합니다.
+  
+🤔 클린 코드 작성과 리뷰를 통한 동반 성장을 추구합니다.
 
-## Kled's Github   
+💬 항상 열린 마음으로 소통하는 것을 좋아합니다.
+
+## 🎒Experience
+
+- `2023.03 ~ 2023.10` **FastCampus Front-End Bootcamp 5th**
+- `2023.10 ~ 2023.11` **woowacourse-precourse 6th**
+
+## Stats
 ![Kled's github stats](https://github-readme-stats.vercel.app/api?username=1017yu&show_icons=true)
 ![Kled's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=1017yu&layout=compact&hide=Jupyter%20Notebook)
----
-
-<br/>  
-
-<br/>
-
-***Studing Steadily!!***
 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white"/></a>
+## Skils
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flatsquare&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flatsquare&logo=React&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flatsquare&logo=TypeScript&logoColor=white"/></a>
+<br />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flatsquare&logo=tailwindcss&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flatsquare&logo=styledcomponents&logoColor=white"/></a>
+
 <br/>
- 
--  I am Kled who major in electronics engineering
-- 👀 I’m interested in Front-End developer
-- 🌱 I’m currently learning electronic-engineering and programming
-- 📫 How to reach me 1017yu@daum.net
+
+## Contacts
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=Gmail&logoColor=white"/></a> *kledyuu@gmail.com* <br />
+<img src="https://img.shields.io/badge/Velog-20C997?style=flatsquare&logo=velog&logoColor=white"/></a> *성장 블로그 [Velog](https://velog.io/@1017yu)*
 
 <!---
 1017yu/1017yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

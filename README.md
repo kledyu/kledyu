@@ -21,12 +21,12 @@
 - `2023.03 ~ 2023.10` **FastCampus Front-End Bootcamp 5th**
 - `2023.10 ~ 2023.11` **woowacourse-precourse 6th**
 
-## Stats
+## 💻 Stats
 ![Kled's github stats](https://github-readme-stats.vercel.app/api?username=1017yu&show_icons=true)
 ![Kled's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=1017yu&layout=compact&hide=Jupyter%20Notebook)
 
 
-## Skils
+## 🛠️ Skils
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flatsquare&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flatsquare&logo=React&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flatsquare&logo=TypeScript&logoColor=white"/></a>
@@ -37,9 +37,9 @@
 
 <br/>
 
-## Contacts
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=Gmail&logoColor=white"/></a> *kledyuu@gmail.com* <br />
-<img src="https://img.shields.io/badge/Velog-20C997?style=flatsquare&logo=velog&logoColor=white"/></a> *성장 블로그 [Velog](https://velog.io/@1017yu)*
+## 📬 Contacts
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=Gmail&logoColor=white"/></a>  *kledyuu@gmail.com* <br />
+<img src="https://img.shields.io/badge/Velog-20C997?style=flatsquare&logo=velog&logoColor=white"/></a>  *성장 블로그 [Velog](https://velog.io/@1017yu)*
 
 <!---
 1017yu/1017yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

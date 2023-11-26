@@ -18,7 +18,7 @@
 
 ## 🎒Experience
 
-- `2023.03 ~ 2023.10` **FastCampus Front-End Bootcamp 5th**
+- `2023.03 ~ 2023.10` **FastCampus Front-End Bootcamp 5th Leader**
 - `2023.10 ~ 2023.11` **woowacourse-precourse 6th**
 
 ## 💻 Stats

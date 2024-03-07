@@ -20,6 +20,7 @@
 
 - `2023.03 ~ 2023.10` **FastCampus Front-End Bootcamp 5th Leader**
 - `2023.10 ~ 2023.11` **woowacourse-precourse 6th**
+- `2023.12 ~ ` **Kernal 360**
 
 ## 💻 Stats
 ![Kled's github stats](https://github-readme-stats.vercel.app/api?username=1017yu&show_icons=true)

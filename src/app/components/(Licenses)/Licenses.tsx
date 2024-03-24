@@ -8,12 +8,12 @@ export default function Licenses() {
     eng: {
       title: '영어',
       period: '2023.10.15.',
-      details: ['OPIc, IH(Intermediate High)'],
+      details: `- OPIc, IH(Intermediate High)`,
     },
     korHis: {
       title: '한국사',
       period: '2019.08.23.',
-      details: ['한국사능력검정시험, 1급'],
+      details: `- 한국사능력검정시험, 1급`,
     },
   } as const;
 

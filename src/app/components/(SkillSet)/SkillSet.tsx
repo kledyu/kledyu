@@ -7,23 +7,24 @@ export default function SkillSet() {
   const SKILL_SET = {
     development: {
       title: 'Development',
-      details: [
-        'JavaScript, TypeScript, React, Next.js',
-        'React-hook-form, zod',
-        'SWR, Axios, REST API',
-      ],
+      details: `- JavaScript, TypeScript, React, Next.js,
+- React-hook-form, zod,
+- SWR, Axios, REST API,
+      `,
     },
     styling: {
       title: 'Styling',
-      details: ['CSS, SCSS', 'Styled-Component, Emotion', 'Tailwind CSS'],
+      details: `- CSS, SCSS
+- Styled-Component, Emotion
+- Tailwind CSS`,
     },
     stateManagement: {
       title: 'State-Management',
-      details: ['Recoil, Zustand, React-Query'],
+      details: `- Recoil, Zustand, React-Query`,
     },
     testing: {
       title: 'Testing',
-      details: ['Jest, React-Test-Libaray'],
+      details: `- Jest, React-Test-Libaray`,
     },
   } as const;
 
@@ -31,8 +32,8 @@ export default function SkillSet() {
     <div className='w-full'>
       <SubHeading heading='SKILL SET' />
       <div className='flex flex-col gap-10'>
-        {Object.values(SKILL_SET).map((project) => (
-          <Content key={randomUUID()} {...project} />
+        {Object.values(SKILL_SET).map((skill) => (
+          <Content key={randomUUID()} {...skill} />
         ))}
       </div>
     </div>

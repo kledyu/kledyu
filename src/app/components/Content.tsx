@@ -1,12 +1,13 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
-import { Roboto } from 'next/font/google';
-import { randomUUID } from 'crypto';
+import { Noto_Sans_KR } from 'next/font/google';
 
 interface ContentProps {
   title: string;
-  details: readonly string[];
+  details: string;
   image?: string;
   desc?: string;
   position?: string;
@@ -14,14 +15,14 @@ interface ContentProps {
   url?: string;
 }
 
-const roboto = Roboto({ subsets: ['latin'], weight: '400' });
+const sans = Noto_Sans_KR({ subsets: ['latin'], weight: ['400', '600'] });
 
 export default function Content({ ...props }: ContentProps) {
   const { image, title, desc, position, period, url, details } = props;
 
   return (
     <div
-      className={`w-full flex flex-col sm:flex-row justify-between gap-4 ${roboto.className}`}>
+      className={`w-full flex flex-col sm:flex-row justify-between gap-4 ${sans.className}`}>
       <div className='flex flex-col min-w-[35%] gap-1'>
         <div className='flex gap-3 mb-2 sm:max-w-[80%]'>
           {image && (
@@ -37,7 +38,7 @@ export default function Content({ ...props }: ContentProps) {
 
           <span
             className={`${
-              position ? 'text-[2rem]' : 'text-base'
+              position ? 'text-[2rem]' : 'text-lg'
             } leading-8 font-semibold`}>
             {title}
           </span>
@@ -63,13 +64,11 @@ export default function Content({ ...props }: ContentProps) {
         </Link>
       </div>
 
-      <ul className='min-w-[65%] sm:p-0 px-4'>
-        {details.map((detail) => (
-          <li key={randomUUID()} className='list-disc pb-2'>
-            {detail}
-          </li>
-        ))}
-      </ul>
+      <ReactMarkdown
+        remarkPlugins={[remarkGfm]}
+        className='min-w-[65%] sm:p-0 px-4'>
+        {details}
+      </ReactMarkdown>
     </div>
   );
 }

@@ -1,5 +1,8 @@
-import { PhoneCall, Mail, Github } from 'lucide-react';
 import Link from 'next/link';
+import { Nanum_Gothic } from 'next/font/google';
+import { PhoneCall, Mail, Github } from 'lucide-react';
+
+const nanum = Nanum_Gothic({ subsets: ['latin'], weight: ['400', '700'] });
 
 export default function Info() {
   return (
@@ -11,15 +14,20 @@ export default function Info() {
       <div className='flex justify-evenly flex-col'>
         <div className='flex gap-3 items-center'>
           <PhoneCall strokeWidth={1.5} />
-          <span>010-4553-1704</span>
+          <span className={nanum.className}>010-4553-1704</span>
         </div>
         <div className='flex gap-3 items-center'>
           <Mail strokeWidth={1.5} />
-          <Link href='mailto:kledyu@kakao.com'>kledyu@kakao.com</Link>
+          <Link href='mailto:kledyu@kakao.com' className={nanum.className}>
+            kledyu@kakao.com
+          </Link>
         </div>
         <div className='flex gap-3 items-center'>
           <Github strokeWidth={1.5} />
-          <Link target='_blank' href='https://github.com/kledyu'>
+          <Link
+            target='_blank'
+            href='https://github.com/kledyu'
+            className={nanum.className}>
             github.com/kledyu
           </Link>
         </div>

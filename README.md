@@ -20,11 +20,12 @@
 
 - `2023.03 ~ 2023.10` **FastCampus Front-End Bootcamp 5th Leader**
 - `2023.10 ~ 2023.11` **woowacourse-precourse 6th**
-- `2023.12 ~ ` **Kernal 360**
+- `2023.12 ~ 2024.04` **Kernal 360**
+- `2024.06 ~ ` **Vetool**
 
 ## 💻 Stats
-![Kled's github stats](https://github-readme-stats.vercel.app/api?username=1017yu&show_icons=true)
-![Kled's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=1017yu&layout=compact&hide=Jupyter%20Notebook)
+![Kled's github stats](https://github-readme-stats.vercel.app/api?username=kledyu&show_icons=true)
+![Kled's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=kledyu&layout=compact&hide=Jupyter%20Notebook)
 
 
 ## 🛠️ Skils

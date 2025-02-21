@@ -21,7 +21,7 @@
 - `2023.03 ~ 2023.10` **FastCampus Front-End Bootcamp 5th Leader**
 - `2023.10 ~ 2023.11` **woowacourse-precourse 6th**
 - `2023.12 ~ 2024.04` **Kernal 360**
-- `2024.06 ~ ` **Vetool**
+- `2024.06 ~ 2025.02` **Vetool**
 
 ## 💻 Stats
 ![Kled's github stats](https://github-readme-stats.vercel.app/api?username=kledyu&show_icons=true)
@@ -41,7 +41,6 @@
 
 ## 📬 Contacts
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=Gmail&logoColor=white"/></a>  *kledyuu@gmail.com* <br />
-<img src="https://img.shields.io/badge/Velog-20C997?style=flatsquare&logo=velog&logoColor=white"/></a>  *성장 블로그 [Velog](https://velog.io/@1017yu)*
 
 <!---
 1017yu/1017yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

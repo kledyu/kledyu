@@ -33,10 +33,13 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flatsquare&logo=React&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flatsquare&logo=TypeScript&logoColor=white"/></a>
 <br />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flatsquare&logo=Supabase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nextjs-000?style=flatsquare&logo=Nextdotjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flatsquare&logo=cloudflare&logoColor=white"/></a>
+<br />
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flatsquare&logo=tailwindcss&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flatsquare&logo=styledcomponents&logoColor=white"/></a>
-
 <br/>
 
 ## 📬 Contacts

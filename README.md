@@ -43,7 +43,7 @@
 <br/>
 
 ## 📬 Contacts
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=Gmail&logoColor=white"/></a>  *kledyuu@gmail.com* <br />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flatsquare&logo=Gmail&logoColor=white"/></a>  kledyu@kakao.com <br />
 
 <!---
 1017yu/1017yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

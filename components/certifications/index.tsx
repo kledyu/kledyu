@@ -1,5 +1,5 @@
-import Content from '@/app/components/ui/Content';
-import Heading from '@/app/components/ui/Heading';
+import Content from '@/components/ui/Content';
+import Heading from '@/components/ui/Heading';
 
 export default function Certifications() {
   const CERTIFICATIONS = {

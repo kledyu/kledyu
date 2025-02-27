@@ -1,4 +1,4 @@
-import Hr from '@/app/components/ui/Hr';
+import Hr from '@/components/ui/Hr';
 
 interface SectionProps {
   children: React.ReactNode;

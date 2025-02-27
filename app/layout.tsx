@@ -1,8 +1,8 @@
 import '@/app/globals.css';
 import type { Metadata } from 'next';
 import { Orbit } from 'next/font/google';
-import ThemeProvider from '@/app/components/ThemeProvider';
-import Header from '@/app/components/Header';
+import ThemeProvider from '@/components/ThemeProvider';
+import Header from '@/components/Header';
 
 const orbit = Orbit({ subsets: ['latin'], weight: '400' });
 

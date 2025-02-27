@@ -1,5 +1,5 @@
-import Heading from '@/app/components/ui/Heading';
-import Detail from '@/app/components/(AboutMe)/Detail';
+import Heading from '@/components/ui/Heading';
+import Detail from '@/components/Detail';
 
 export default function AboutMe() {
   return (

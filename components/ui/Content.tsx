@@ -1,4 +1,4 @@
-import ProjectContentLink from '@/app/components/(Projects)/ui/ProjectContentLink';
+import ProjectContentLink from '@/components/projects/ui/ProjectContentLink';
 import { cn } from '@/lib/utils';
 import { Noto_Sans_KR } from 'next/font/google';
 import Image from 'next/image';

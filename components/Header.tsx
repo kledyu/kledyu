@@ -1,7 +1,7 @@
 'use client';
 
-import ThemeToggle from '@/app/components/ui/ThemeToggle';
-import { SECTIONS } from '@/app/page';
+import { SECTIONS } from '@/components/Main';
+import ThemeToggle from '@/components/ui/ThemeToggle';
 
 export default function Header() {
   const handleClick = (sectionId: string) => {

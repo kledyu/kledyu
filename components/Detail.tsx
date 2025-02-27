@@ -1,4 +1,4 @@
-import Mark from '@/app/components/(AboutMe)/ui/Mark';
+import Mark from '@/components/ui/Mark';
 import { Nanum_Gothic } from 'next/font/google';
 
 const nanum = Nanum_Gothic({ subsets: ['latin'], weight: ['400', '700'] });

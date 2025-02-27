@@ -1,5 +1,5 @@
-import Heading from '@/app/components/ui/Heading';
-import Content from '@/app/components/ui/Content';
+import Heading from '@/components/ui/Heading';
+import Content from '@/components/ui/Content';
 
 export default function Career() {
   const CAREERS = {

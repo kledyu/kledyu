@@ -1,8 +1,15 @@
-import SubHeading from '@/app/components/SubHeading';
-import Content from '@/app/components/Content';
+import Heading from '@/app/components/ui/Heading';
+import Content from '@/app/components/ui/Content';
 
-export default function Educations() {
-  const EDUCATIONS = {
+export default function Career() {
+  const CAREERS = {
+    vetool: {
+      title: '주식회사 벳툴',
+      position: '프론트엔드 엔지니어',
+      period: '2024.06. ~ 2025.02.',
+      details: `- 10여개 병원에서 사용하는 BaaS 동물병원 차트 서비스 개발 및 운영
+- 2024 K-STARTUP 예비창업패키지 선정`,
+    },
     fastcampus: {
       title: '패스트캠퍼스 프론트엔드 부트캠프',
       position: '수강생 & 리더',
@@ -21,11 +28,11 @@ export default function Educations() {
   } as const;
 
   return (
-    <div className='w-full'>
-      <SubHeading heading='EDUCATIONS' />
+    <div id='career' className='w-full'>
+      <Heading heading='CAREERS' />
       <div className='flex flex-col gap-10'>
-        {Object.values(EDUCATIONS).map((education, index) => (
-          <Content key={index} {...education} />
+        {Object.values(CAREERS).map((career) => (
+          <Content key={career.title} {...career} />
         ))}
       </div>
     </div>

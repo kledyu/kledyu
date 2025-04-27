@@ -24,7 +24,7 @@
 - `2024.06 ~ 2025.02` **Vetool**
 
 ## 💻 Stats
-![Kled's github stats](https://github-readme-stats.vercel.app/api?username=kledyu&show_icons=true)
+![Kled's github stats](https://github-readme-stats.vercel.app/api?username=kledyu&show_icons=true&count_private=true)
 ![Kled's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=kledyu&layout=compact&hide=Jupyter%20Notebook)
 
 

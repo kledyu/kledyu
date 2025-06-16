@@ -1,3 +1,4 @@
+import { cn } from '@/lib/utils';
 import Mark from '@/components/ui/Mark';
 import { Nanum_Gothic } from 'next/font/google';
 
@@ -5,7 +6,7 @@ const nanum = Nanum_Gothic({ subsets: ['latin'], weight: ['400', '700'] });
 
 export default function Detail() {
   return (
-    <p className={nanum.className}>
+    <p className={cn(nanum.className, 'sm:text-lg')}>
       <strong>JavaScript & TypeScript / React & Next.js</strong> 기반의
       프론트엔드 엔지니어로서,&nbsp;
       <Mark>성능 최적화와 확장 가능한 시스템 설계</Mark>에 관심이 많습니다

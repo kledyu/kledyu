@@ -17,7 +17,7 @@ export const SECTIONS = [
 
 export default function Main() {
   return (
-    <main className='flex min-h-screen flex-col items-center px-4 py-32 sm:px-8 xl:px-64 lg:px-32 dark:bg-stone-950'>
+    <main className='flex min-h-screen flex-col items-center px-4 py-32 sm:px-8 xl:px-64 lg:px-32 dark:bg-[#121212]'>
       {SECTIONS.map(({ Component, isFirst, isBold }) => (
         <Section key={Component.name} isFirst={isFirst} isBold={isBold}>
           <Component />

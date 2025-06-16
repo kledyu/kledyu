@@ -17,7 +17,7 @@ export default function Header() {
   };
 
   return (
-    <header className='fixed flex items-center top-0 z-10 bg-white dark:bg-stone-950 w-full h-12 xl:px-64 lg:px-32 sm:px-8 px-4 border-b'>
+    <header className='fixed flex items-center top-0 z-10 bg-white dark:bg-[#121212] w-full h-12 xl:px-64 lg:px-32 sm:px-8 px-4 border-b'>
       <div className='hidden sm:flex gap-4 xl:gap-8'>
         {SECTIONS.map(
           ({ label, Component, isFirst }) =>

@@ -35,12 +35,12 @@ export default function Content({ ...props }: ContentProps) {
   } = props;
 
   return (
-    <div
+    <li
       className={cn(
-        'w-full flex flex-col sm:flex-row justify-between gap-8',
+        'w-full flex flex-col sm:flex-row justify-between gap-8 sm:gap-14',
         sans.className
       )}>
-      <div className='flex flex-col min-w-[35%] gap-1'>
+      <div className='flex flex-col min-w-[35%]'>
         <div className='flex gap-3 mb-2 '>
           <span className='leading-8 font-semibold text-2xl sm:text-3xl'>
             {title}
@@ -91,6 +91,6 @@ export default function Content({ ...props }: ContentProps) {
         className='min-w-[65%] sm:p-0 px-4 2xl:text-lg md:text-base text-sm'>
         {details}
       </ReactMarkdown>
-    </div>
+    </li>
   );
 }

@@ -27,7 +27,7 @@ export default function Projects() {
       desc: '상용 서비스 `오피스너` 개선 웹앱',
       position: '프론트엔드 팀장',
       period: '2023.08. ~ 2023.10.',
-      src: '/officener_pdf.pdf',
+      src: '/documents/officener.pdf',
       github: 'livable-final/client',
       details: `
 - 상용 서비스 ‘오피스너’의 **유저 가입자수와 WAU 증진**을 위한 개선 웹앱 제작

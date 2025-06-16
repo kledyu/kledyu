@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import { Orbit } from 'next/font/google';
 import ThemeProvider from '@/components/ThemeProvider';
 import Header from '@/components/Header';
+import ScrollToTopButton from '@/components/ui/ToTopButton';
 
 const orbit = Orbit({ subsets: ['latin'], weight: '400' });
 
@@ -22,6 +23,7 @@ export default function RootLayout({
         <ThemeProvider>
           <Header />
           {children}
+          <ScrollToTopButton />
         </ThemeProvider>
       </body>
     </html>

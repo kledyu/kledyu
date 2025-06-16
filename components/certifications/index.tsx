@@ -3,6 +3,11 @@ import Heading from '@/components/ui/Heading';
 
 export default function Certifications() {
   const CERTIFICATIONS = {
+    data: {
+      title: '정보처리기사',
+      period: '2025.05.11. ~ 진행중',
+      details: `- 정보처리기사 필기 합격 및 실기 준비중`,
+    },
     eng: {
       title: '영어',
       period: '2023.10.15.',

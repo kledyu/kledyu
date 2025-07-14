@@ -22,6 +22,7 @@
 - `2023.10 ~ 2023.11` **woowacourse-precourse 6th**
 - `2023.12 ~ 2024.04` **Kernal 360**
 - `2024.06 ~ 2025.02` **Vetool**
+- `2025.07 ~ ` **커리어넷**
 
 ## 💻 Stats
 ![Kled's github stats](https://github-readme-stats.vercel.app/api?username=kledyu&show_icons=true&count_private=true)

@@ -18,7 +18,7 @@ export default function SkillSet() {
     },
     stateManagement: {
       title: 'State Management',
-      details: `- Zustand, Recoil, React-Query`,
+      details: `- Zustand`,
     },
     database: {
       title: 'Database',
@@ -26,7 +26,7 @@ export default function SkillSet() {
     },
     testing: {
       title: 'Testing',
-      details: `- Jest, React-Test-Libaray`,
+      details: `- Jest, React Testing Library`,
     },
   } as const;
 
@@ -35,7 +35,7 @@ export default function SkillSet() {
       <Heading heading='SKILL SET' />
       <div className='flex flex-col gap-10'>
         {Object.values(SKILL_SET).map((skill) => (
-          <Content key={skill.details} {...skill} />
+          <Content key={skill.title} {...skill} />
         ))}
       </div>
     </div>

@@ -3,14 +3,12 @@ import Career from '@/components/career';
 import Certifications from '@/components/certifications';
 import Info from '@/components/Info';
 import Projects from '@/components/projects';
-import SkillSet from '@/components/skill-set';
 import Section from '@/components/ui/Section';
 
 export const SECTIONS = [
   { Component: Info, isFirst: true },
   { Component: AboutMe, label: 'ABOUT ME', isBold: true },
   { Component: Projects, label: 'PROJECTS' },
-  { Component: SkillSet, label: 'SKILL SET' },
   { Component: Career, label: 'CAREER' },
   { Component: Certifications, label: 'CERTIFICATIONS' },
 ];

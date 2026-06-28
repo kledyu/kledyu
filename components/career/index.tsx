@@ -14,7 +14,7 @@ export default function Career() {
       title: '㈜ 벳툴',
       position: '풀스택 엔지니어',
       period: '2024.06. ~ 2025.02.',
-      details: `- 10여개 병원에서 사용하는 BaaS 동물병원 차트 서비스 개발 및 운영
+      details: `- 10여 개 병원에서 사용하는 SaaS 동물병원 차트 서비스 개발 및 운영
 - 성능 개선: PostgreSQL 인덱스 최적화 및 AWS S3 Presigned URL 도입
 - 일 63,000건 API 처리 시 총 2.4초 단축, 이미지 로드 속도 70% 개선
 - 2024 K-STARTUP 예비창업패키지 선정`,

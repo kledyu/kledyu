@@ -12,16 +12,17 @@ export default function Detail() {
       분석 시스템까지, 사용자가 만나는 모든 경험을 설계합니다.
       <br />
       <br />
-      메디컬 서비스 회사에서 <strong>일일 API 요청 63,000건 이상</strong>을
+      동물병원 SaaS 회사에서 <strong>일일 API 요청 63,000건 이상</strong>을
       처리하는 시스템을 운영했습니다. React Server Components 도입과 Web Vitals
       최적화를 통해 <Mark>Lighthouse 성능 점수를 평균 98점</Mark>으로 유지하며
       사용자 경험을 개선했습니다.
       <br />
       <br />
       현재는 근로자 안전 솔루션을 개발하며 Next.js 모놀리식 레거시를{' '}
-      <strong>React/Rust 기반 MSA</strong>로 마이그레이션하고, 반도체 장비사의
-      데이터를 자연어로 질의응답하는 <Mark>AI 분석 시스템(RAG)</Mark>을
-      구축하는 등 프론트엔드를 넘어 아키텍처와 AI 영역까지 확장하고 있습니다.
+      <strong>React/Rust 기반 MSA</strong>로 마이그레이션하고 있습니다. 또한
+      반도체 장비사의 이슈·기술 문서를 자연어로 묻고 답하는{' '}
+      <Mark>폐쇄망 AI 검색 시스템(RAG)</Mark>에서 Rust로 LLM 질의 이해·하이브리드
+      검색 파이프라인을 구현하며 아키텍처와 AI 영역으로 확장하고 있습니다.
       <br />
       <br />
       패스트캠퍼스 프론트엔드 부트캠프에서 <strong>50여 명의 개발자</strong>를
